@@ -1,0 +1,265 @@
+﻿newmtl /Game/Maps/BankMap_BankMap_PersistentLevel_SkySphereBlueprint_SkySphereMesh_MaterialInstanceDynamic_0
+	map_Kd BankMap_BankMap_PersistentLevel_SkySphereBlueprint_SkySphereMesh_MaterialInstanceDynamic_0_D.bmp
+	map_Ks BankMap_BankMap_PersistentLevel_SkySphereBlueprint_SkySphereMesh_MaterialInstanceDynamic_0_S.bmp
+	bump BankMap_BankMap_PersistentLevel_SkySphereBlueprint_SkySphereMesh_MaterialInstanceDynamic_0_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Concrete_Tiles_M_Concrete_Tiles
+	map_Kd M_Concrete_Tiles_M_Concrete_Tiles_D.bmp
+	map_Ks M_Concrete_Tiles_M_Concrete_Tiles_S.bmp
+	bump M_Concrete_Tiles_M_Concrete_Tiles_N.bmp
+
+newmtl /Game/MS_CyberpunkV1/3D_Asset/07_Concrete_Barrier_sdsbo/07_Concrete_Barrier_sdsbo_8K_inst_07_Concrete_Barrier_sdsbo_8K_inst
+	map_Kd 07_Concrete_Barrier_sdsbo_8K_inst_07_Concrete_Barrier_sdsbo_8K_inst_D.bmp
+	map_Ks 07_Concrete_Barrier_sdsbo_8K_inst_07_Concrete_Barrier_sdsbo_8K_inst_S.bmp
+	bump 07_Concrete_Barrier_sdsbo_8K_inst_07_Concrete_Barrier_sdsbo_8K_inst_N.bmp
+
+newmtl /Game/Building/lambert6_lambert6
+	map_Kd lambert6_lambert6_D.bmp
+	map_Ks lambert6_lambert6_S.bmp
+	bump lambert6_lambert6_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Rock_Marble_Polished_M_Rock_Marble_Polished
+	map_Kd M_Rock_Marble_Polished_M_Rock_Marble_Polished_D.bmp
+	map_Ks M_Rock_Marble_Polished_M_Rock_Marble_Polished_S.bmp
+	bump M_Rock_Marble_Polished_M_Rock_Marble_Polished_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Metal_Brushed_Nickel_M_Metal_Brushed_Nickel
+	map_Kd M_Metal_Brushed_Nickel_M_Metal_Brushed_Nickel_D.bmp
+	map_Ks M_Metal_Brushed_Nickel_M_Metal_Brushed_Nickel_S.bmp
+	bump M_Metal_Brushed_Nickel_M_Metal_Brushed_Nickel_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Tech_Checker_Dot_M_Tech_Checker_Dot
+	map_Kd M_Tech_Checker_Dot_M_Tech_Checker_Dot_D.bmp
+	map_Ks M_Tech_Checker_Dot_M_Tech_Checker_Dot_S.bmp
+	bump M_Tech_Checker_Dot_M_Tech_Checker_Dot_N.bmp
+
+newmtl /Game/Building/pasted__pasted__lambert3_pasted__pasted__lambert3
+	map_Kd pasted__pasted__lambert3_pasted__pasted__lambert3_D.bmp
+	map_Ks pasted__pasted__lambert3_pasted__pasted__lambert3_S.bmp
+	bump pasted__pasted__lambert3_pasted__pasted__lambert3_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_M_Wood_Floor_Walnut_Worn
+	map_Kd M_Wood_Floor_Walnut_Worn_M_Wood_Floor_Walnut_Worn_D.bmp
+	map_Ks M_Wood_Floor_Walnut_Worn_M_Wood_Floor_Walnut_Worn_S.bmp
+	bump M_Wood_Floor_Walnut_Worn_M_Wood_Floor_Walnut_Worn_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Rock_Sandstone_M_Rock_Sandstone
+	map_Kd M_Rock_Sandstone_M_Rock_Sandstone_D.bmp
+	map_Ks M_Rock_Sandstone_M_Rock_Sandstone_S.bmp
+	bump M_Rock_Sandstone_M_Rock_Sandstone_N.bmp
+
+newmtl /Game/Building/pasted__lambert2_pasted__lambert2
+	map_Kd pasted__lambert2_pasted__lambert2_D.bmp
+	map_Ks pasted__lambert2_pasted__lambert2_S.bmp
+	bump pasted__lambert2_pasted__lambert2_N.bmp
+
+newmtl /Game/Mixer/NewMaterialInstanceConstant_NewMaterialInstanceConstant
+	map_Kd NewMaterialInstanceConstant_NewMaterialInstanceConstant_D.bmp
+	map_Ks NewMaterialInstanceConstant_NewMaterialInstanceConstant_S.bmp
+	bump NewMaterialInstanceConstant_NewMaterialInstanceConstant_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Glass_M_Glass
+	map_Kd M_Glass_M_Glass_D.bmp
+	map_Ks M_Glass_M_Glass_S.bmp
+	bump M_Glass_M_Glass_N.bmp
+
+newmtl /Game/MS_PostApocalypticSt/Surface/03_Asphalt_Road_2x2_M_tiggcjdo/03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst
+	map_Kd 03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_D.bmp
+	map_Ks 03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_S.bmp
+	bump 03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_03_Asphalt_Road_2x2_M_tiggcjdo_8K_inst_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Metal_Steel_M_Metal_Steel
+	map_Kd M_Metal_Steel_M_Metal_Steel_D.bmp
+	map_Ks M_Metal_Steel_M_Metal_Steel_S.bmp
+	bump M_Metal_Steel_M_Metal_Steel_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Bricks_Tiles/brick_wall_grey_brick_wall_grey
+	map_Kd brick_wall_grey_brick_wall_grey_D.bmp
+	map_Ks brick_wall_grey_brick_wall_grey_S.bmp
+	bump brick_wall_grey_brick_wall_grey_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Wood_Pine_M_Wood_Pine
+	map_Kd M_Wood_Pine_M_Wood_Pine_D.bmp
+	map_Ks M_Wood_Pine_M_Wood_Pine_S.bmp
+	bump M_Wood_Pine_M_Wood_Pine_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Lightgenerator_01b_MI_Lightgenerator_01b
+	map_Kd MI_Lightgenerator_01b_MI_Lightgenerator_01b_D.bmp
+	map_Ks MI_Lightgenerator_01b_MI_Lightgenerator_01b_S.bmp
+	bump MI_Lightgenerator_01b_MI_Lightgenerator_01b_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Lightgenerator_01a_MI_Lightgenerator_01a
+	map_Kd MI_Lightgenerator_01a_MI_Lightgenerator_01a_D.bmp
+	map_Ks MI_Lightgenerator_01a_MI_Lightgenerator_01a_S.bmp
+	bump MI_Lightgenerator_01a_MI_Lightgenerator_01a_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Metal/metal_trim___default_metal_trim___default
+	map_Kd metal_trim___default_metal_trim___default_D.bmp
+	map_Ks metal_trim___default_metal_trim___default_S.bmp
+	bump metal_trim___default_metal_trim___default_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Metal/metal_trim_white_metal_trim_white
+	map_Kd metal_trim_white_metal_trim_white_D.bmp
+	map_Ks metal_trim_white_metal_trim_white_S.bmp
+	bump metal_trim_white_metal_trim_white_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Ground_Rubble/trash_pile_trash_pile
+	map_Kd trash_pile_trash_pile_D.bmp
+	map_Ks trash_pile_trash_pile_S.bmp
+	bump trash_pile_trash_pile_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Metal/metal_shutters_metal_shutters
+	map_Kd metal_shutters_metal_shutters_D.bmp
+	map_Ks metal_shutters_metal_shutters_S.bmp
+	bump metal_shutters_metal_shutters_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Glass/Glass_Glass
+	map_Kd Glass_Glass_D.bmp
+	map_Ks Glass_Glass_S.bmp
+	bump Glass_Glass_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Portapotty_01a_MI_Portapotty_01a
+	map_Kd MI_Portapotty_01a_MI_Portapotty_01a_D.bmp
+	map_Ks MI_Portapotty_01a_MI_Portapotty_01a_S.bmp
+	bump MI_Portapotty_01a_MI_Portapotty_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Trafficbarrier_01a_MI_Trafficbarrier_01a
+	map_Kd MI_Trafficbarrier_01a_MI_Trafficbarrier_01a_D.bmp
+	map_Ks MI_Trafficbarrier_01a_MI_Trafficbarrier_01a_S.bmp
+	bump MI_Trafficbarrier_01a_MI_Trafficbarrier_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_WaterTank_01a_MI_WaterTank_01a
+	map_Kd MI_WaterTank_01a_MI_WaterTank_01a_D.bmp
+	map_Ks MI_WaterTank_01a_MI_WaterTank_01a_S.bmp
+	bump MI_WaterTank_01a_MI_WaterTank_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_FreightContainer_01b_MI_FreightContainer_01b
+	map_Kd MI_FreightContainer_01b_MI_FreightContainer_01b_D.bmp
+	map_Ks MI_FreightContainer_01b_MI_FreightContainer_01b_S.bmp
+	bump MI_FreightContainer_01b_MI_FreightContainer_01b_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_FreightContainer_01a_MI_FreightContainer_01a
+	map_Kd MI_FreightContainer_01a_MI_FreightContainer_01a_D.bmp
+	map_Ks MI_FreightContainer_01a_MI_FreightContainer_01a_S.bmp
+	bump MI_FreightContainer_01a_MI_FreightContainer_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Crate_01a_MI_Crate_01a
+	map_Kd MI_Crate_01a_MI_Crate_01a_D.bmp
+	map_Ks MI_Crate_01a_MI_Crate_01a_S.bmp
+	bump MI_Crate_01a_MI_Crate_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_ConstructionPylon_01a_MI_ConstructionPylon_01a
+	map_Kd MI_ConstructionPylon_01a_MI_ConstructionPylon_01a_D.bmp
+	map_Ks MI_ConstructionPylon_01a_MI_ConstructionPylon_01a_S.bmp
+	bump MI_ConstructionPylon_01a_MI_ConstructionPylon_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Portapotty_01b_MI_Portapotty_01b
+	map_Kd MI_Portapotty_01b_MI_Portapotty_01b_D.bmp
+	map_Ks MI_Portapotty_01b_MI_Portapotty_01b_S.bmp
+	bump MI_Portapotty_01b_MI_Portapotty_01b_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Fence_01a_MI_Fence_01a
+	map_Kd MI_Fence_01a_MI_Fence_01a_D.bmp
+	map_Ks MI_Fence_01a_MI_Fence_01a_S.bmp
+	bump MI_Fence_01a_MI_Fence_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_CableReel_01a_MI_CableReel_01a
+	map_Kd MI_CableReel_01a_MI_CableReel_01a_D.bmp
+	map_Ks MI_CableReel_01a_MI_CableReel_01a_S.bmp
+	bump MI_CableReel_01a_MI_CableReel_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_CardboardBoxes_01a_MI_CardboardBoxes_01a
+	map_Kd MI_CardboardBoxes_01a_MI_CardboardBoxes_01a_D.bmp
+	map_Ks MI_CardboardBoxes_01a_MI_CardboardBoxes_01a_S.bmp
+	bump MI_CardboardBoxes_01a_MI_CardboardBoxes_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_BrickPaletteStack_01a_MI_BrickPaletteStack_01a
+	map_Kd MI_BrickPaletteStack_01a_MI_BrickPaletteStack_01a_D.bmp
+	map_Ks MI_BrickPaletteStack_01a_MI_BrickPaletteStack_01a_S.bmp
+	bump MI_BrickPaletteStack_01a_MI_BrickPaletteStack_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Spool_01a_MI_Spool_01a
+	map_Kd MI_Spool_01a_MI_Spool_01a_D.bmp
+	map_Ks MI_Spool_01a_MI_Spool_01a_S.bmp
+	bump MI_Spool_01a_MI_Spool_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Cinderstack_01a_MI_Cinderstack_01a
+	map_Kd MI_Cinderstack_01a_MI_Cinderstack_01a_D.bmp
+	map_Ks MI_Cinderstack_01a_MI_Cinderstack_01a_S.bmp
+	bump MI_Cinderstack_01a_MI_Cinderstack_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_OilBarrel_01a_MI_OilBarrel_01a
+	map_Kd MI_OilBarrel_01a_MI_OilBarrel_01a_D.bmp
+	map_Ks MI_OilBarrel_01a_MI_OilBarrel_01a_S.bmp
+	bump MI_OilBarrel_01a_MI_OilBarrel_01a_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_Barrel01_1_MI_Barrel01_1
+	map_Kd MI_Barrel01_1_MI_Barrel01_1_D.bmp
+	map_Ks MI_Barrel01_1_MI_Barrel01_1_S.bmp
+	bump MI_Barrel01_1_MI_Barrel01_1_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_Tarp01_1_MI_Tarp01_1
+	map_Kd MI_Tarp01_1_MI_Tarp01_1_D.bmp
+	map_Ks MI_Tarp01_1_MI_Tarp01_1_S.bmp
+	bump MI_Tarp01_1_MI_Tarp01_1_N.bmp
+
+newmtl /Game/MS_CyberpunkV1/3D_Asset/09_Concrete_Rubble_Pile_tgdtfg0da/09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst
+	map_Kd 09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_D.bmp
+	map_Ks 09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_S.bmp
+	bump 09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_09_Concrete_Rubble_Pile_tgdtfg0da_8K_inst_N.bmp
+
+newmtl /Game/StarterContent/Props/Materials/M_Bush_M_Bush
+	map_Kd M_Bush_M_Bush_D.bmp
+	map_Ks M_Bush_M_Bush_S.bmp
+	bump M_Bush_M_Bush_N.bmp
+
+newmtl /Game/ModularBuildingSet/materials/Bricks_Tiles/tile_trim_clean/tile_trim_clean___default_tile_trim_clean___default
+	map_Kd tile_trim_clean___default_tile_trim_clean___default_D.bmp
+	map_Ks tile_trim_clean___default_tile_trim_clean___default_S.bmp
+	bump tile_trim_clean___default_tile_trim_clean___default_N.bmp
+
+newmtl /Game/StarterContent/Props/Materials/M_Lamp_M_Lamp
+	map_Kd M_Lamp_M_Lamp_D.bmp
+	map_Ks M_Lamp_M_Lamp_S.bmp
+	bump M_Lamp_M_Lamp_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_Tarp_01a_MI_Tarp_01a
+	map_Kd MI_Tarp_01a_MI_Tarp_01a_D.bmp
+	map_Ks MI_Tarp_01a_MI_Tarp_01a_S.bmp
+	bump MI_Tarp_01a_MI_Tarp_01a_N.bmp
+
+newmtl /Game/Construction_VOL1/Materials/Instances/MI_WoodenPalette_01a_MI_WoodenPalette_01a
+	map_Kd MI_WoodenPalette_01a_MI_WoodenPalette_01a_D.bmp
+	map_Ks MI_WoodenPalette_01a_MI_WoodenPalette_01a_S.bmp
+	bump MI_WoodenPalette_01a_MI_WoodenPalette_01a_N.bmp
+
+newmtl /Engine/BasicShapes/BasicShapeMaterial_BasicShapeMaterial
+	map_Kd BasicShapeMaterial_BasicShapeMaterial_D.bmp
+	map_Ks BasicShapeMaterial_BasicShapeMaterial_S.bmp
+	bump BasicShapeMaterial_BasicShapeMaterial_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_Box01_2_MI_Box01_2
+	map_Kd MI_Box01_2_MI_Box01_2_D.bmp
+	map_Ks MI_Box01_2_MI_Box01_2_S.bmp
+	bump MI_Box01_2_MI_Box01_2_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_Cartonbox01_1_MI_Cartonbox01_1
+	map_Kd MI_Cartonbox01_1_MI_Cartonbox01_1_D.bmp
+	map_Ks MI_Cartonbox01_1_MI_Cartonbox01_1_S.bmp
+	bump MI_Cartonbox01_1_MI_Cartonbox01_1_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_WaterTank01_MI_WaterTank01
+	map_Kd MI_WaterTank01_MI_WaterTank01_D.bmp
+	map_Ks MI_WaterTank01_MI_WaterTank01_S.bmp
+	bump MI_WaterTank01_MI_WaterTank01_N.bmp
+
+newmtl /Game/IndustryPropsPack6/Materials/MI_Rack01_1_MI_Rack01_1
+	map_Kd MI_Rack01_1_MI_Rack01_1_D.bmp
+	map_Ks MI_Rack01_1_MI_Rack01_1_S.bmp
+	bump MI_Rack01_1_MI_Rack01_1_N.bmp
+
+newmtl /Game/StarterContent/Materials/M_Ground_Grass_M_Ground_Grass
+	map_Kd M_Ground_Grass_M_Ground_Grass_D.bmp
+	map_Ks M_Ground_Grass_M_Ground_Grass_S.bmp
+	bump M_Ground_Grass_M_Ground_Grass_N.bmp
+
